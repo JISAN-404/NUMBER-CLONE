@@ -1,0 +1,2 @@
+import jisan
+jisan.Subscraption()
